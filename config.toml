@@ -1,0 +1,101 @@
+# Site settings
+baseURL = "https://bartstroeken.nl/"
+title = "Bart Stroeken"
+theme = "hugo-coder"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+copyright = "Bart Stroeken"
+paginate = 20
+enableEmoji = true
+# Enable Disqus comments
+# disqusShortname = "yourdiscussshortname"
+
+sectionPagesMenu = "main"
+
+[params]
+author = "Bart Stroeken"
+info = "Site Reliability Engineer, Software Engineer, Graphic Designer, Guitar player, Singer, Dad, Husband."
+# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "All things personal. If it's professional, then it's either personal experience or personal opinion."
+keywords = "blog,developer,personal"
+avatarURL = "images/avatar.jpg"
+gravatar = "bart.stroeken@gmail.com"
+dateFormat = "January 2, 2006"
+since = 2023
+# Git Commit in Footer, uncomment the line below to enable it
+# commit = "https://github.com/luizdepra/hugo-coder/tree/"
+# Right To Left, shift content direction for languagues such as Arabic
+rtl = false
+
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+
+# Custom JS
+customJS = []
+
+# Custom remote JS files
+customRemoteJS = []
+
+# If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
+[params.googleTagManager]
+id = "G-0JVVLCPHR2"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/bartstroeken/"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/bartee/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-2x fa-gitlab"
+weight = 2
+url = "https://gitlab.com/bartee/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/bartstroeken/"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 3
+url = "https://instagram.com/bartstroeken/"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-soundcloud"
+weight = 3
+url = "https://soundcloud.com/bartee/"
+
+  # Section - Content
+  [params.content]
+    name = "Bart Stroeken"
+    tagline = "This is me."
