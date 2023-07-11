@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://bartstroeken.nl/"
+baseURL = "https://www.bartstroeken.nl/"
 title = "Bart Stroeken"
 theme = "hugo-coder"
 languageCode = "en-US"
