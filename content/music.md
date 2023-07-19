@@ -24,7 +24,7 @@ I like to reimagine songs in a way they fit me better.
 If you hear me play Jason Mraz' I'm Yours or Omarm from the dutch band Bløf, you'll recognise it.
 But recognising my renditions of Creep, Sitting on the Dock of the Bay or I wanna Dance With Somebody you'll have to prick up your ears.
 
-Would you like me to come perform? Contact me using bart.stroeken[at]gmail.com!
+Would you like me to come perform? Contact me at bart.stroeken[at]gmail.com!
 
 ## Action!
 
