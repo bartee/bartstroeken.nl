@@ -3,7 +3,6 @@ title: "About me"
 author: Bart
 slug: "about"
 date: 2023-07-05T10:46:45+02:00
-featuredImage: "/images/profile_image.jpeg"
 type: page
 menu: main
 ---

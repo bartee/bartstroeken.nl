@@ -1,0 +1,21 @@
+<section class="container page">
+    <article>
+      <header>
+        <h1 class="title">
+          <a class="title-link" href="{{ .Permalink | safeURL }}">
+            {{ .Title }}
+          </a>
+        </h1>
+      </header>
+      {{ if .Params.featuredImage }}
+      <style type="text/css">
+          header { background-image: url("{{ .Params.featuredImage | relURL }}");  }
+      </style>
+        {{ if .Params.featuredImageSub }}
+         <br/> <em class="font-small">{{ .Params.featuredImageSub | html }}</em>
+        {{ end }}
+      {{ end }}
+
+      {{ .Content }}
+    </article>
+  </section>
