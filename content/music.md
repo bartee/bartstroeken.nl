@@ -32,7 +32,7 @@ Here are a few recordings of my work.
 With the band De Hollandse Meesters we played the wonderful Achteraf Sessies of Tommy Tin, where they managed to bring  music
 to very unpredictable places.
 
-[![Omarm - Bløf](https://img.youtube.com/vi/U1G-ejSgcq0/hqdefault.jpg)]
+[![Omarm - Bløf](https://img.youtube.com/vi/U1G-ejSgcq0/hqdefault.jpg)](https://youtu.be/U1G-ejSgcq0)
 [![Faith - George Michael](https://img.youtube.com/vi/NujfrMfIp54/hqdefault.jpg)](https://youtu.be/NujfrMfIp54)
 
 If you want to hear me sing or play, have a look at [my profile on Soundcloud](https://soundcloud.com/bartee) or listen
