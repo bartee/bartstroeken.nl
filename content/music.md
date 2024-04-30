@@ -35,5 +35,5 @@ to very unpredictable places.
 [![Omarm - Bløf](https://img.youtube.com/vi/U1G-ejSgcq0/hqdefault.jpg)](https://youtu.be/U1G-ejSgcq0)
 [![Faith - George Michael](https://img.youtube.com/vi/NujfrMfIp54/hqdefault.jpg)](https://youtu.be/NujfrMfIp54)
 
-If you want to hear me sing or play, have a look at [my profile on Soundcloud](https://soundcloud.com/bartee) or listen
- to [my demos on Soundcloud](https://soundcloud.com/bartee/sets/demos)
+If you want to hear me sing or play, have a look at [my profile on Soundcloud](https://soundcloud.com/bartstroeken) or listen
+ to [my demos on Soundcloud](https://soundcloud.com/bartstroeken/sets/re-imagined-works?si=0f78c3198b964e939efd186ccdff765d&utm_source=clipboard&utm_medium=text&utm_campaign=website)
