@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nls on Bart Stroeken</title>
+    <link>http://localhost:1313/nl/</link>
+    <description>Recent content in Nls on Bart Stroeken</description>
+    <generator>Hugo</generator>
+    <language>nl-NL</language>
+    <copyright>Bart Stroeken</copyright>
+    <lastBuildDate>Wed, 05 Jul 2023 10:46:45 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Over mij</title>
+      <link>http://localhost:1313/nl/over/</link>
+      <pubDate>Wed, 05 Jul 2023 10:46:45 +0200</pubDate>
+      <guid>http://localhost:1313/nl/over/</guid>
+      <description>&lt;p&gt;Het gaat altijd om de mensen.&#xA;In mijn beroep: zonder gebruikers is software niet nodig.&lt;/p&gt;&#xA;&lt;p&gt;The most important thing in software development is users.&#xA;If you have no users, what are you working for?&lt;/p&gt;&#xA;&lt;p&gt;To me, that matters in quite a few things.&#xA;I&amp;rsquo;m a Site Reliability Engineer: I help others measure and safeguard user happiness whilst enabling teams to develop value in a reliable way.&#xA;That means helping teams and stakeholders in figuring out user value.&#xA;That means setting up SLIs, SLOs and error budgets.&#xA;That means solidifying setups where needed.&#xA;And it circles back to one thing: deliver to your users what really matters, no matter what.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

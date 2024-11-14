@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bart Stroeken</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Bart Stroeken</description>
+    <generator>Hugo</generator>
+    <language>nl-NL</language>
+    <copyright>Bart Stroeken</copyright>
+    <lastBuildDate>Wed, 05 Jul 2023 10:46:45 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Wed, 05 Jul 2023 10:46:45 +0200</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;p&gt;The most important thing in software development is users.&#xA;If you have no users, what are you working for?&lt;/p&gt;&#xA;&lt;p&gt;To me, that matters in quite a few things.&#xA;I&amp;rsquo;m a Site Reliability Engineer: I help others measure and safeguard user happiness whilst enabling teams to develop value in a reliable way.&#xA;That means helping teams and stakeholders in figuring out user value.&#xA;That means setting up SLIs, SLOs and error budgets.&#xA;That means solidifying setups where needed.&#xA;And it circles back to one thing: deliver to your users what really matters, no matter what.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/drafts/about-me/</link>
+      <pubDate>Wed, 05 Jul 2023 10:46:45 +0200</pubDate>
+      <guid>http://localhost:1313/drafts/about-me/</guid>
+      <description>&lt;p&gt;asdfasdfsd&#xA;My profession: developer.&#xA;I’m a full stack developer, and I had quite a bit on my plate. You can look at &lt;!-- raw HTML omitted --&gt;the menu of my career – my resume – here&lt;!-- raw HTML omitted --&gt;.  Fun fact: it’s an application I’ve built to have a go with Tornado, and some other tools. &lt;!-- raw HTML omitted --&gt;Use the source to find out more&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Over mij</title>
+      <link>http://localhost:1313/nl/over/</link>
+      <pubDate>Wed, 05 Jul 2023 10:46:45 +0200</pubDate>
+      <guid>http://localhost:1313/nl/over/</guid>
+      <description>&lt;p&gt;Het gaat altijd om de mensen.&#xA;In mijn beroep: zonder gebruikers is software niet nodig.&lt;/p&gt;&#xA;&lt;p&gt;The most important thing in software development is users.&#xA;If you have no users, what are you working for?&lt;/p&gt;&#xA;&lt;p&gt;To me, that matters in quite a few things.&#xA;I&amp;rsquo;m a Site Reliability Engineer: I help others measure and safeguard user happiness whilst enabling teams to develop value in a reliable way.&#xA;That means helping teams and stakeholders in figuring out user value.&#xA;That means setting up SLIs, SLOs and error budgets.&#xA;That means solidifying setups where needed.&#xA;And it circles back to one thing: deliver to your users what really matters, no matter what.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/music/</link>
+      <pubDate>Mon, 11 Apr 2022 20:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/music/</guid>
+      <description>&lt;p&gt;I have been singing since before I was able to talk, and I still very much enjoy doing so.&#xA;Choirs, bands, musicals, you name it.&#xA;I&amp;rsquo;ve played Christian in Moulin Rouge, Riff Raff in the Rocky Horror Show and Woof Dashund in Hair.&#xA;I&amp;rsquo;ve written Ontbijt Voor Twee together with Marc Smits, and that became the anthem for the Algemene Introductie Dagen in Wageningen, where I studied back then. The two of us toured three weeks throughout England and Northern Ireland.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

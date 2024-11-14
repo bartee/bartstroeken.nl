@@ -6,6 +6,7 @@ type: post
 
 ---
 
+asdfasdfsd
 My profession: developer.
 I&#8217;m a full stack developer, and I had quite a bit on my plate. You can look at <a href="http://menu.bartstroeken.nl/" target="_blank" rel="noopener noreferrer">the menu of my career &#8211; my resume &#8211; here</a>.  Fun fact: it&#8217;s an application I&#8217;ve built to have a go with Tornado, and some other tools. <a href="https://bitbucket.org/bartee/tornson-project" target="_blank" rel="noopener noreferrer">Use the source to find out more</a>.
 
