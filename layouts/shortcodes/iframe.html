@@ -1,0 +1,8 @@
+<iframe 
+    width="{{ if ( .Get "width" ) }} {{ . }} {{ else }} 100% {{ end }}"
+    height="{{ .Get "height" }}"
+    scrolling="no"
+    frameborder="no" 
+    allow="autoplay" 
+    src={{ .Get "url"}}>
+</iframe>

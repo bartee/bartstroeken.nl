@@ -5,8 +5,11 @@ theme = "hugo-coder"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 copyright = "Bart Stroeken"
-paginate = 20
+markup.goldmark.renderer.unsafe = true
+markup.goldmark.parser.attribute.block = true
 enableEmoji = true
+css="css/custom.css"
+
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 

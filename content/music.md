@@ -10,30 +10,45 @@ featuredImageSub: Thanks, Birense Fotografie, for this wonderful picture!
 ---
 
 
-I have been singing since before I was able to talk, and I still very much enjoy doing so.
-Choirs, bands, musicals, you name it.
-I've played Christian in Moulin Rouge, Riff Raff in the Rocky Horror Show and Woof Dashund in Hair.
-I've written Ontbijt Voor Twee together with Marc Smits, and that became the anthem for the Algemene Introductie Dagen in Wageningen, where I studied back then. The two of us toured three weeks throughout England and Northern Ireland.
 
-And as De Hollandse Meesters, Christoffel Klimbie and myself graced quite a few parties in and around Amsterdam playing swinging acoustic covers.
+## Soulful acoustic sounds
 
-As a singer/guitar player I have a heartfelt preference for acoustic work.
-It is direct, it also works when the power's out and the only thing limiting you to progress is your own creativity.
-For me, it always just works.
-I like to reimagine songs in a way they fit me better.
-If you hear me play Jason Mraz' I'm Yours or Omarm from the dutch band Bløf, you'll recognise it.
-But recognising my renditions of Creep, Sitting on the Dock of the Bay or I wanna Dance With Somebody you'll have to prick up your ears.
+Expect heartfelt, reimagined acoustic renditions of familiar songs, blending creativity and intimacy with a personal touch.
+From guilty pleasures to small arts. In Dutch and English.
 
-Would you like me to come perform? Contact me at bart.stroeken[at]gmail.com!
+## Demos and Recordings 
+{{< columns >}}
 
-## Action!
+### Sounds
 
-Here are a few recordings of my work.
-With the band De Hollandse Meesters we played the wonderful Achteraf Sessies of Tommy Tin, where they managed to bring  music
-to very unpredictable places.
+You can find various recordings of mine on my [SoundCloud](https://www.soundcloud.com/bartstroeken) channel:
 
-[![Omarm - Bløf](https://img.youtube.com/vi/U1G-ejSgcq0/hqdefault.jpg)](https://youtu.be/U1G-ejSgcq0)
-[![Faith - George Michael](https://img.youtube.com/vi/NujfrMfIp54/hqdefault.jpg)](https://youtu.be/NujfrMfIp54)
+{{< iframe url=https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1817106156&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true width=100% height=400 >}}
 
-If you want to hear me sing or play, have a look at [my profile on Soundcloud](https://soundcloud.com/bartstroeken) or listen
- to [my demos on Soundcloud](https://soundcloud.com/bartstroeken/sets/re-imagined-works?si=0f78c3198b964e939efd186ccdff765d&utm_source=clipboard&utm_medium=text&utm_campaign=website)
+<---> 
+
+### In the picture
+On YouTube, you'll find a list of home recordings and notable performances in various settings:
+
+* [Home recordings](https://www.youtube.com/@bartstroeken/videos)
+* [Past performances](https://www.youtube.com/watch?v=VxtN2-mgIU4&list=PLBU6NC_QQAKzo3F0xCfhTwftKJmAaLMok)
+
+Many performances have either not been recorded or are unavailable for the public. 
+{.font-normal .text-lg}
+{{< /columns >}}
+## Bio
+
+With a lifelong passion for singing and performance, I've embraced a variety of musical roles—from choirs to musicals, including playing Christian in Moulin Rouge and Riff Raff in The Rocky Horror Show. 
+I co-wrote Ontbijt Voor Twee, the anthem for Wageningen’s introduction week, and toured England and Northern Ireland with Marc Smits. As part of De Hollandse Meesters, I also played swinging acoustic covers for years. 
+As a singer and acoustic guitarist, I bring a heartfelt, creative approach to my performances, favoring the intimacy of acoustic work. 
+Expect reimagined renditions of popular songs like Jason Mraz's I'm Yours, Bløf's Omarm, and classics such as Creep and Sitting on the Dock of the Bay, all infused with my personal 
+touch and style.
+
+## Sounds like
+
+KT Tunstall, Newton Faulkner, Rufus Wainwright
+
+## Contact
+
+Would you like me to come perform? Contact me at bart.stroeken@gmail.com!
+
