@@ -5,8 +5,14 @@ theme = "hugo-coder"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 copyright = "Bart Stroeken"
-markup.goldmark.renderer.unsafe = true
-markup.goldmark.parser.attribute.block = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+
 enableEmoji = true
 css="css/custom.css"
 
