@@ -35,6 +35,18 @@ On YouTube, you'll find a list of home recordings and notable performances in va
 
 Many performances have either not been recorded or are unavailable for the public. 
 {.font-normal .text-lg}
+
+### Upcoming!  
+
+
+
+* [Vilt & Vivaldi - Studio Namenia](https://www.studionamenia.nl/belevenis/8717/)  
+<sup>1-11-2025, Loenen aan de Vecht</sup>   
+Felt Art Reveal Party - afterparty music.
+
+* [Trapop Utrecht Coveravond](https://www.trapoputrecht.nl/programma/#calendar-8e07b0d2-a2c7-4fe9-8efb-beefc7465421-event-ce1bbb31-01f2-4f37-a2d2-c0c51f4b412d)   
+<sup>8-11-2025, Utrecht</sup>  
+
 {{< /columns >}}
 ## Bio
 
