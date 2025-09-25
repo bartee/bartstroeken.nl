@@ -1,0 +1,22 @@
+[build]
+publish = "public"
+command = "hugo --gc --minify"
+
+[build.environment]
+HUGO_VERSION = "0.150.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+# Optional: Use Ubuntu 20.04 build image for more recent versions
+[build]
+  # This ensures you get a more recent build environment
+  environment = { HUGO_VERSION = "0.150.0" }
+
+[context.production.environment]
+HUGO_ENV = "production"
+
+[context.deploy-preview.environment]
+HUGO_ENV = "production"
+
+[context.branch-deploy.environment]
+HUGO_ENV = "production"
