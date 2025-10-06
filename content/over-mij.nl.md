@@ -8,11 +8,13 @@ menu: main
 weight: 1
 ---
 
+__Mijn beroep: Site Reliability Engineering.__
+
 Het belangrijkste in software ontwikkeling is de gebruikers.
 Als je geen gebruikers hebt, waar doe je het dan voor?
 
 Dat belang komt in veel dingen naar voren voor mij.
-Ik ben Site Reliability Engineer: ik help anderen de tevredenheid van gebruikers te kunnen meten en bewaken, en zorg ervoor dat teams op betrouwbare wijze waarde kunnen creëren.
+Als SRE help ik anderen de tevredenheid van gebruikers te kunnen meten en bewaken, en zorg ervoor dat teams op betrouwbare wijze waarde kunnen creëren.
 Dat betekent teams en stakeholders te helpen met het bepalen wat belangrijk is voor de gebruiker.
 Dat betekent het opstellen van SLIs, SLOs en errorbudgetten.
 Dat betekent dat we waar nodig de technische opzet moeten verstevigen.

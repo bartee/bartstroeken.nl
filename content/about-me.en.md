@@ -8,11 +8,13 @@ menu: main
 weight: 1
 ---
 
+__My profession: Site Reliability Engineer.__ 
+
 The most important thing in software development is users.
 If you have no users, what are you working for?
 
 To me, that matters in quite a few things.
-I'm a Site Reliability Engineer: I help others measure and safeguard user happiness whilst enabling teams to develop value in a reliable way.
+As an SRE, I help others measure and safeguard user happiness whilst enabling teams to develop value in a reliable way.
 That means helping teams and stakeholders in figuring out user value.
 That means setting up SLIs, SLOs and error budgets.
 That means solidifying setups where needed.
