@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bart Stroeken</title>
-    <link>http://localhost:52440/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Bart Stroeken</description>
     <generator>Hugo</generator>
-    <language>en-US</language>
+    <language>en</language>
     <copyright>Bart Stroeken</copyright>
     <lastBuildDate>Wed, 05 Jul 2023 10:46:45 +0200</lastBuildDate>
-    <atom:link href="http://localhost:52440/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:52440/posts/about-me/</link>
+      <link>http://localhost:1313/posts/about-me/</link>
       <pubDate>Wed, 05 Jul 2023 10:46:45 +0200</pubDate>
-      <guid>http://localhost:52440/posts/about-me/</guid>
+      <guid>http://localhost:1313/posts/about-me/</guid>
       <description>&lt;p&gt;My profession: developer.&#xA;I’m a full stack developer, and I had quite a bit on my plate. You can look at &lt;a href=&#34;http://menu.bartstroeken.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;the menu of my career – my resume – here&lt;/a&gt;.  Fun fact: it’s an application I’ve built to have a go with Tornado, and some other tools. &lt;a href=&#34;https://bitbucket.org/bartee/tornson-project&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Use the source to find out more&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can have a look at my &lt;a title=&#34;My Github Profile&#34; href=&#34;http://www.github.com/bartee&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Github&lt;/a&gt; or  &lt;a title=&#34;My Bitbucket Profile&#34; href=&#34;https://bitbucket.org/bartee&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bitbucket&lt;/a&gt; – profile for some repo’s. The public ones are mostly POCs, but I also have some interesting projects.&lt;/p&gt;</description>
     </item>
   </channel>

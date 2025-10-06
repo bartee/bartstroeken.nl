@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:52440/about/</loc>
-    <lastmod>2023-07-05T10:46:45+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52440/posts/about-me/</loc>
-    <lastmod>2023-07-05T10:46:45+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52440/</loc>
-    <lastmod>2023-07-05T10:46:45+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52440/posts/</loc>
-    <lastmod>2023-07-05T10:46:45+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52440/music/</loc>
-    <lastmod>2022-04-11T20:45:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52440/authors/</loc>
-  </url><url>
-    <loc>http://localhost:52440/categories/</loc>
-  </url><url>
-    <loc>http://localhost:52440/series/</loc>
-  </url><url>
-    <loc>http://localhost:52440/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2023-07-05T10:46:45+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/nl/sitemap.xml</loc>
+    
+      <lastmod>2023-07-05T10:46:45+02:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

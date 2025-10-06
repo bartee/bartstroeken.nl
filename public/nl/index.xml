@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bart Stroeken</title>
+    <link>http://localhost:1313/nl/</link>
+    <description>Recent content on Bart Stroeken</description>
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <copyright>Bart Stroeken</copyright>
+    <lastBuildDate>Wed, 05 Jul 2023 10:46:45 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Over mij</title>
+      <link>http://localhost:1313/nl/over-mij/</link>
+      <pubDate>Wed, 05 Jul 2023 10:46:45 +0200</pubDate>
+      <guid>http://localhost:1313/nl/over-mij/</guid>
+      <description>&lt;p&gt;Het belangrijkste in software ontwikkeling is de gebruikers.&#xA;Als je geen gebruikers hebt, waar doe je het dan voor?&lt;/p&gt;&#xA;&lt;p&gt;Dat belang komt in veel dingen naar voren voor mij.&#xA;Ik ben Site Reliability Engineer: ik help anderen de tevredenheid van gebruikers te kunnen meten en bewaken, en zorg ervoor dat teams op betrouwbare wijze waarde kunnen creëren.&#xA;Dat betekent teams en stakeholders te helpen met het bepalen wat belangrijk is voor de gebruiker.&#xA;Dat betekent het opstellen van SLIs, SLOs en errorbudgetten.&#xA;Dat betekent dat we waar nodig de technische opzet moeten verstevigen.&#xA;En dat komt terug bij één ding: het leveren aan gebruikers wat echt belangrijk is, boven alles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Muziek</title>
+      <link>http://localhost:1313/nl/muziek/</link>
+      <pubDate>Mon, 11 Apr 2022 20:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/muziek/</guid>
+      <description>&lt;h2 id=&#34;akoestische-muziek-die-raakt&#34;&gt;&#xA;  Akoestische muziek die raakt&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#akoestische-muziek-die-raakt&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Ik speel muziek die me raakt op een manier zoals het me raakt. Wie weet raakt het jou ook.&#xA;Verwacht akoestische versies van (minder) bekende nummers, die creativiteit en intimiteit mengt met een persoonlijke touch.&#xA;Van guilty pleasures tot kleinkunst. In het Nederlands en Engels.&lt;/p&gt;&#xA;&lt;h2 id=&#34;demos-en-opnames&#34;&gt;&#xA;  Demos en opnames&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#demos-en-opnames&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;    &lt;div class=&#34;column&#34;&gt;&#xA;      &lt;h3 id=&#34;muziek&#34;&gt;&#xA;  Muziek&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#muziek&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Er staat een verzameling opnames van mij op mijn &lt;a href=&#34;https://www.soundcloud.com/bartstroeken&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoundCloud&lt;/a&gt; kanaal:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

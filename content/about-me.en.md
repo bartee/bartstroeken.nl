@@ -5,6 +5,7 @@ slug: "about"
 date: 2023-07-05T10:46:45+02:00
 type: page
 menu: main
+weight: 1
 ---
 
 The most important thing in software development is users.

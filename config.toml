@@ -12,6 +12,13 @@ copyright = "Bart Stroeken"
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
         block = true
+[languages]
+  [languages.en]
+    languageName = 'EN'
+    weight = 1
+  [languages.nl]
+    languageName = 'NL'
+    weight = 2
 
 enableEmoji = true
 css="css/custom.css"
@@ -87,22 +94,16 @@ weight = 2
 url = "https://gitlab.com/bartee/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 3
-url = "https://twitter.com/bartstroeken/"
-
-[[params.social]]
 name = "Instagram"
 icon = "fa fa-2x fa-instagram"
 weight = 3
-url = "https://instagram.com/bartstroeken/"
+url = "https://instagram.com/bartmakesmusic/"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-2x fa-soundcloud"
 weight = 3
-url = "https://soundcloud.com/bartee/"
+url = "https://soundcloud.com/bartstroeken/"
 
   # Section - Content
   [params.content]
