@@ -42,13 +42,8 @@ Maar op YouTube vind je een lijst van thuisopnames en gave optredens in diverse 
 ### Binnenkort!  
 
 
-
-* [Vilt & Vivaldi - Studio Namenia](https://www.studionamenia.nl/belevenis/8717/)  
-<sup>1-11-2025, Loenen aan de Vecht</sup>   
-Felt Art Reveal Party - afterparty music.
-
-* [Trapop Utrecht Coveravond](https://www.trapoputrecht.nl/programma/#calendar-8e07b0d2-a2c7-4fe9-8efb-beefc7465421-event-ce1bbb31-01f2-4f37-a2d2-c0c51f4b412d)   
-<sup>8-11-2025, Utrecht</sup>  
+Op dit moment heb ik nog even niks op de agenda staan. 
+Neem gerust <A href="mailto:bartstroeken@gmail.com?subject=Ik%20ben%20geïnteresseerd%20in%20je%20muziek">contact</a> met me op wanneer je wil dat ik kom optreden.
 
 {{< /columns >}}
 ## Bio

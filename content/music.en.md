@@ -40,13 +40,9 @@ Many performances have either not been recorded or are unavailable for the publi
 ### Upcoming!  
 
 
+At this point, there is nothing yet on the agenda soon.
+Please  <A href="mailto:bartstroeken@gmail.com?subject=Interested%20in%20your%20music">contact</a> me for more info.
 
-* [Vilt & Vivaldi - Studio Namenia](https://www.studionamenia.nl/belevenis/8717/)  
-<sup>1-11-2025, Loenen aan de Vecht</sup>   
-Felt Art Reveal Party - afterparty music.
-
-* [Trapop Utrecht Coveravond](https://www.trapoputrecht.nl/programma/#calendar-8e07b0d2-a2c7-4fe9-8efb-beefc7465421-event-ce1bbb31-01f2-4f37-a2d2-c0c51f4b412d)   
-<sup>8-11-2025, Utrecht</sup>  
 
 {{< /columns >}}
 ## Bio
